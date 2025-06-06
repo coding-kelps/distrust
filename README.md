@@ -1,4 +1,4 @@
-<h1 align="center"><i><u>Disrust</u></i></h1>
+<h1 align="center"><i><u>Distrust</u></i></h1>
 
 ---
 
